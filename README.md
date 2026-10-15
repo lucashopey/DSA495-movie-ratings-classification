@@ -68,7 +68,7 @@ We are given the review text and whether or not it is classified as fresh or rot
 ## Feasibility and Immediate Next Steps
 
 - **Minimum viable project:** Using a small subset of the larger overall data and perform text analysis to predict fresh or rotten reviews.
-- **Data-access check:** The data has been downloaded, used for quick EDA, and was placed in the GitHub repository for further use.
+- **Data-access check:** The data has been downloaded and viewed.
 - **Largest current risk:** The largest risk is deciphering the sentiment from movies in general when not factoring in the type of movie as being scared in a horror movie is different than being scared in a romance movie.
 - **Backup plan:** The scope could be narrowed down to one category of movies. For example, just analyzing action movies.
 - **Next two actions:**
