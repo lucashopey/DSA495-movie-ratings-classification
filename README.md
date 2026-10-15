@@ -51,15 +51,24 @@ The collection of text is a collection of movie rating comments. One observation
 
 - **Dataset or corpus name:** Rotten Tomatoes Reviews
 - **Original source organization or creator:** Ulrik Thyge Pedersen 
-- **Original collection process:** Data was sourced from Rotten Tomatoes.
+- **Original collection process:** Data was gathered by the creator and sourced from Rotten Tomatoes.
 - **Direct link:** https://www.kaggle.com/datasets/ulrikthygepedersen/rotten-tomatoes-reviews
-- **Access method:** Download
+- **Access method:** Download (CSV file)
 - **Access, licensing, privacy, or redistribution considerations:** None identified
 - **Backup corpus (optional):** Not needed at this stage
 
 ### Examples
 
 Within each rotten tomato review we have the text of the review. We also are given the freshness given by the reviewer.
+
+**Review:** It would be difficult to imagine material more wrong for Spade than Lost & Found.
+**Freshness:** Rotten
+
+**Review:** Slight, contained, but ineffably soulful.
+**Freshness:** Fresh
+
+**Review:** Everyone in "The Comedian" deserves a better movie than "The Comedian."
+**Freshness:** Rotten
 
 ### Fit with the Task
 
