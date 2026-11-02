@@ -1,3 +1,25 @@
-Environment and data access: 
-Document required packages, software versions, setup steps, data sources, and any instructions needed to obtain
+Environment and Data Access:
+
+The goal of this file is to document required packages, software versions, 
+setup steps, data sources, and any instructions needed to obtain
 or reconstruct the input data without committing restricted material.
+
+Packages: 
+
+Pandas
+
+Software Versions:
+
+Current Colab and Pandas versions.
+
+Data Sources:
+
+Kaggle Rotten Tomatoes .csv and then running it through the
+Data_Cleaning.ipynb (full data too large to include in GitHub).
+After replacing the file path with your own for the full data,
+all that needs to be done is simply running the file. The file
+will create a random subset of 3000 observations that is kept
+consistent with a seed. The row indices are reset and the data
+is read in such a way that it allows abnormal characters seen
+in a movie review. From there, use this data in the
+Modeling_and_Evaluation.ipynb.
