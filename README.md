@@ -96,4 +96,10 @@ Not yet decided.
 
 ## AI-Use Statement
 
+**Documentation and Idea Generation**
+
 No AI was used for the idea of this project, the gathering of the data, or the completion of this README.md file.
+
+**Coding**
+
+Gemini AI in Google Colab was used for the data cleaning, modeling, and evaluation to explain and resolve errors and validate proper coding techniques. The use of this AI helped our progress by understanding what our coding errors were and why they occurred. It also helped us improve our code by learning about new options in the functions, such as cmap in the ConfusionMatrix() function to add color.

@@ -2,15 +2,20 @@ Environment and Data Access:
 
 The goal of this file is to document required packages, software versions, 
 setup steps, data sources, and any instructions needed to obtain
-or reconstruct the input data without committing restricted material.
+or reconstruct the input data without committing restricted material. Random
+seed is 2026.
 
 Packages: 
 
-Pandas
+Pandas, Torch, Pipeline from Transformers, Matplotlib, 
+ConfusionMatrixDisplay and classification_report from sklearn.metrics, and
+train_test_split from sklearn.model_selection
 
 Software Versions:
 
-Current Colab and Pandas versions.
+Current Colab, Pandas, Torch, Pipeline from Transformers, Matplotlib, 
+ConfusionMatrixDisplay and classification_report from sklearn.metrics, and
+train_test_split from sklearn.model_selection versions.
 
 Data Sources:
 
